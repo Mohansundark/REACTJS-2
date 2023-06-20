@@ -2,7 +2,7 @@
   "name": "task2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mohansundark/github.io/REACTJS-2",
+  "homepage": "http://mohansundark/github.io/my-calculator-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

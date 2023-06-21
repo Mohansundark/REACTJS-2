@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-import Header from "./components/header/header";
-import KeyPad from "./components/keypad/keypad";
+import Header from "./components/header/Header";
+import KeyPad from "./components/keypad/Heypad";
 
 
 
